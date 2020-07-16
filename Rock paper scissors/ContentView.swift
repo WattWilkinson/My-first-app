@@ -11,9 +11,10 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         VStack {
-            Text("Hi my name is watt")
+            Text("Welcome to the rock paper scissors app!")
                 .font(.largeTitle)
                 .foregroundColor(Color.red)
+            Text("Click on the button to play")
            
         }
     }
